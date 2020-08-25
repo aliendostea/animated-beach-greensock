@@ -3,9 +3,13 @@
 ## What I learn in this course 📋
 
 ⚡️ The basics of SVG.
+
 ⚡️ Animate a full beach scene.
+
 ⚡️ How to use GreenSock animation library.
+
 ⚡️ Parallax effect with SVG.
+
 ⚡️ TweenMax, scale, rotation, repeat, transformOrigin, yoyo, ease, repeatDelay.
 
 ---
